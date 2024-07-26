@@ -18,6 +18,12 @@ The Employee Management System is a comprehensive application designed for manag
   - Mailtrap.io
 - **Frontend**:
   - React
+ 
+![image](https://github.com/user-attachments/assets/8cfe6340-4012-424f-be83-322cc0233679)
+![image](https://github.com/user-attachments/assets/cbfccbaa-2df9-4d7a-a436-afca309ef41a)
+![image](https://github.com/user-attachments/assets/14a0d5fe-4a04-40ca-99d5-b7a0a294a2d3)
+![image](https://github.com/user-attachments/assets/35eaa04d-ecbe-4e7b-afea-0eab68b9aff2)
+
 
 ## Setup and Installation
 
